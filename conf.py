@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Trend Micro Download Already Purchased – The Ultimate Device-Ready Installation Plan"
+html_title = "One Code, Full Protection: Install Trend Micro with Activation Code Seamlessly"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
